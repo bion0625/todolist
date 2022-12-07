@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+}
+form{
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+form input{
+    width: 250px;
+}
+h1{
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+}
+.one-body{
+    background-image: url(http://www.artinsight.co.kr/data/tmp/1712/699607a75930231de68153d46b317576_pSPY1PR2xtFSGbc4.jpg);
+}
+.two-body{
+    background-image: url(https://www.ilbe.com/file/download/2668387160);
+}
+.three-body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB55iSPLxFWqeTfDRYZb8pMlIZD7IZlvaQqGIbazJ4v6Z6KP9UtG7KKyfcEURtFomk7ug&usqp=CAU);
+}
+.hidden{
+    display: none;
+}
