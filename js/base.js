@@ -8,7 +8,7 @@ timeCheck();
 setInterval(timeCheck,1000);
 
 
-
+const HIDDEN_KEY = "hidden";
 
 function timeCheck(){
     const date = new Date();
@@ -40,9 +40,17 @@ if(name !== null){
 
 function nameCheck(name){
     const hello = document.querySelector("h3");
-    hello.classList.remove("hidden")
+    hello.classList.remove(HIDDEN_KEY)
     hello.innerText = `hello, ${name}`;
     hello.className = "hello";
-    nameForm.classList.add("hidden");
+    nameForm.classList.add(HIDDEN_KEY);
+    todoCheck();
+}
+
+function todoCheck(){
+    const write = document.querySelector("#write");
+    const todoList = document.querySelector("#todo-list");
+    write.classList.remove(HIDDEN_KEY);
+    todoList.classList.remove(HIDDEN_KEY);
 }
 

@@ -4,13 +4,23 @@
     <title>UJ To Do List</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class="three-body">
-    <span class="time"></span>
-    <h3 class="hidden"></h3>
-    <h1>TO DO LIST</h1>
-    <form id="name-form">
-        <input type="text" placeholder="NAME">
-    </form>
+<body>
+    <div class="main">
+        <span class="time"></span>
+        <div class="title">
+            <h1>TO DO LIST</h1>
+            <h3 class="hidden"></h3>
+        </div>
+        <form id="name-form">
+            <input id="name" type="text" placeholder="NAME">
+        </form>
+        <div class="list">
+            <form id="write-form">
+                <input type="text" required id="write" class="hidden" placeholder="write to do!">
+            </form>
+            <ul id="todo-list" class="hidden"></ul>
+        </div>
+    </div>
     <script src="js/base.js "></script>
     <script src="js/todolist.js"></script>
 </body>
