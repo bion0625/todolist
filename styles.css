@@ -68,52 +68,58 @@ button{
     width: 80%;
 }
 .a-body{
-    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F5FA481A89002C);
+    background-image: url(img/1.jpeg);
 }
 .b-body{
-    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F5FB481927002F);
+    background-image: url(img/2.jpeg);
 }
 .c-body{
-    background-image: url(https://i1.ruliweb.com/img/5/3/2/9/5329F5FD4818450030);
+    background-image: url(img/3.jpeg);
 }
 .d-body{
-    background-image: url(https://i1.ruliweb.com/img/5/3/2/9/5329F5FE4817EA0031);
+    background-image: url(img/4.jpeg);
 }
 .e-body{
-    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F5FF4818C5002E);
+    background-image: url(img/5.jpeg);
 }
 .f-body{
-    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F600481B5A002E);
+    background-image: url(img/6.jpeg);
 }
 .g-body{
-    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F602481ACC002E);
+    background-image: url(img/7.jpeg);
 }
 .h-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6034C17CA0029);
+    background-image: url(img/8.jpeg);
 }
 .i-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6054C1B8B0028);
+    background-image: url(img/9.jpeg);
 }
 .j-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6064C18A70027);
+    background-image: url(img/10.jpeg);
 }
 .k-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6074C1BDC0026);
+    background-image: url(img/11.jpeg);
 }
 .l-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6084C1BFC0027);
+    background-image: url(img/12.jpeg);
 }
 .m-body{
-    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F8544F1086002B);
+    background-image: url(img/13.jpeg);
 }
 .n-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6094C1C040028);
+    background-image: url(img/14.jpeg);
 }
 .o-body{
-    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F60A4C1B4C0028);
+    background-image: url(img/15.jpeg);
 }
 .p-body{
-    background-image: url(https://i1.ruliweb.com/img/5/3/2/9/5329F60B4746170001);
+    background-image: url(img/16.jpeg);
+}
+.q-body{
+    background-image: url(img/17.jpeg);
+}
+.r-body{
+    background-image: url(img/18.jpeg);
 }
 .hidden{
     display: none;
