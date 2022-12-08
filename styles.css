@@ -68,58 +68,34 @@ button{
     width: 80%;
 }
 .a-body{
-    background-image: url(img/1.jpeg);
+    background-image: url(img/1.jpg);
 }
 .b-body{
-    background-image: url(img/2.jpeg);
+    background-image: url(img/2.jpg);
 }
 .c-body{
-    background-image: url(img/3.jpeg);
+    background-image: url(img/3.jpg);
 }
 .d-body{
-    background-image: url(img/4.jpeg);
+    background-image: url(img/4.jpg);
 }
 .e-body{
-    background-image: url(img/5.jpeg);
+    background-image: url(img/5.jpg);
 }
 .f-body{
-    background-image: url(img/6.jpeg);
+    background-image: url(img/6.jpg);
 }
 .g-body{
-    background-image: url(img/7.jpeg);
+    background-image: url(img/7.jpg);
 }
 .h-body{
-    background-image: url(img/8.jpeg);
+    background-image: url(img/8.jpg);
 }
 .i-body{
-    background-image: url(img/9.jpeg);
+    background-image: url(img/9.jpg);
 }
 .j-body{
-    background-image: url(img/10.jpeg);
-}
-.k-body{
-    background-image: url(img/11.jpeg);
-}
-.l-body{
-    background-image: url(img/12.jpeg);
-}
-.m-body{
-    background-image: url(img/13.jpeg);
-}
-.n-body{
-    background-image: url(img/14.jpeg);
-}
-.o-body{
-    background-image: url(img/15.jpeg);
-}
-.p-body{
-    background-image: url(img/16.jpeg);
-}
-.q-body{
-    background-image: url(img/17.jpeg);
-}
-.r-body{
-    background-image: url(img/18.jpeg);
+    background-image: url(img/10.jpg);
 }
 .hidden{
     display: none;
