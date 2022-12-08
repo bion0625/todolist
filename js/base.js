@@ -1,6 +1,6 @@
 const body = document.querySelector("body");
-const bodyNumber = Math.floor(Math.random()*3);
-const bodyImg = ["one-body","two-body","three-body"];
+const bodyImg = ["a-body","b-body","c-body","d-body","e-body","f-body","g-body","h-body","i-body","j-body","k-body","l-body","m-body","n-body","o-body","p-body"];
+const bodyNumber = Math.floor(Math.random()*bodyImg.length);
 body.className = bodyImg[bodyNumber];
 
 const time = document.querySelector(".time");

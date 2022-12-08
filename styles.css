@@ -67,14 +67,53 @@ button{
     display: inline;
     width: 80%;
 }
-.one-body{
-    background-image: url(http://www.artinsight.co.kr/data/tmp/1712/699607a75930231de68153d46b317576_pSPY1PR2xtFSGbc4.jpg);
+.a-body{
+    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F5FA481A89002C);
 }
-.two-body{
-    background-image: url(https://www.ilbe.com/file/download/2668387160);
+.b-body{
+    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F5FB481927002F);
 }
-.three-body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB55iSPLxFWqeTfDRYZb8pMlIZD7IZlvaQqGIbazJ4v6Z6KP9UtG7KKyfcEURtFomk7ug&usqp=CAU);
+.c-body{
+    background-image: url(https://i1.ruliweb.com/img/5/3/2/9/5329F5FD4818450030);
+}
+.d-body{
+    background-image: url(https://i1.ruliweb.com/img/5/3/2/9/5329F5FE4817EA0031);
+}
+.e-body{
+    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F5FF4818C5002E);
+}
+.f-body{
+    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F600481B5A002E);
+}
+.g-body{
+    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F602481ACC002E);
+}
+.h-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6034C17CA0029);
+}
+.i-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6054C1B8B0028);
+}
+.j-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6064C18A70027);
+}
+.k-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6074C1BDC0026);
+}
+.l-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6084C1BFC0027);
+}
+.m-body{
+    background-image: url(https://i3.ruliweb.com/img/5/3/2/9/5329F8544F1086002B);
+}
+.n-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F6094C1C040028);
+}
+.o-body{
+    background-image: url(https://i2.ruliweb.com/img/5/3/2/9/5329F60A4C1B4C0028);
+}
+.p-body{
+    background-image: url(https://i1.ruliweb.com/img/5/3/2/9/5329F60B4746170001);
 }
 .hidden{
     display: none;
