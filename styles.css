@@ -124,6 +124,9 @@ button{
         height: 60px;
         font-size: 50px;
     }
+    button{
+        height: 35px;
+    }
     #name{
         height: 60px;
         width: 600px;
