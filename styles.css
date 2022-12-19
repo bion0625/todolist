@@ -23,6 +23,7 @@ h3{
 li{
     list-style-type: none;
     color: white;
+    margin: 5px;
 }
 button{
     border: 0;
@@ -120,10 +121,6 @@ button{
         font-style: italic;
         color: white;
     }
-    li{
-        height: 60px;
-        font-size: 50px;
-    }
     button{
         height: 35px;
     }
@@ -138,5 +135,10 @@ button{
         width: 600px;
         opacity: 0.5;
         font-size: 40px;
+    }
+    li{
+        font-size: 50px;
+        width: 700px;
+        margin: 25px;
     }
   }
